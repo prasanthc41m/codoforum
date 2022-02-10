@@ -1,6 +1,6 @@
-# CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3
+# [CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3]()
 
-Listed in: Exploit-db.com and cve.mitre.org
+Listed in: [Exploit-db](https://www.exploit-db.com/exploits/47876),[Cve Mitre](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-5842) and [The daily swig](https://portswigger.net/daily-swig/codoforum-software-patched-against-stored-xss-vulnerability)
 
 While I was searching for a free forum software for our community I found Codoforum. After installing it We (Vyshnav Vizz) tried a few simple XSS payloads to ensure the security and suddenly got surprised with finding of multiple critical cross site scripting vulnerability which affects admin users. Thanks a lot my brother (Vyshnav Vizz) for supporting me throughout my life.
 
