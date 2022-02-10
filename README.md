@@ -1,4 +1,4 @@
-# [CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3]()
+# [CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3](https://prasanthk.com/index.php/2020/01/16/cve-2020-5842-stored-xss-vulnerability-in-codoforum-4-8-3/)
 
 Listed in: [Exploit-db](https://www.exploit-db.com/exploits/47876), [Cve Mitre](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-5842) and [The daily swig](https://portswigger.net/daily-swig/codoforum-software-patched-against-stored-xss-vulnerability)
 
