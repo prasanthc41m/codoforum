@@ -17,8 +17,6 @@ If the admin visits the user manage section using admin dashboard section from m
 
 Recreation Steps
 1. Download and Install Codoforum 4.8.3 in a local server.
-c41mfied!!!
-c41mfied!!!
 https://codoforum.com/buy
 ![image](https://user-images.githubusercontent.com/58906808/153190114-b9749d74-87fd-4528-be5f-37b98f389277.png)
 
